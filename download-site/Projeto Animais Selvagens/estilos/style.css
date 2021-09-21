@@ -1,0 +1,74 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body{
+   /* background-color: rgb(255, 255, 255);*/
+    background-image: url(../Animais/WhatsApp\ Image\ 2021-08-12\ at\ 20.16.08.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+main{
+    /*background-color: rgb(15, 14, 14);*/
+    width: 1300px;
+    margin: auto;
+    padding: 5px;
+   /* box-shadow:  5px 5px 5px rgb(19, 18, 18);*/
+}
+ h1{
+     background-color: rgb(243, 241, 241);
+     text-align: center;
+     /*font-size:large;*/
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: italic;
+     font-weight:lighter ;
+     text-align: center;
+     font-size: 1.5em;
+     border: double;
+     border-color: rgb(5, 5, 5);
+     border-width: 20px;
+ }
+ img{
+     width: 40%;
+     margin: 10pt;
+     position: relative;
+     top: -3px;
+     left: 450px;
+
+     
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin rgb(17, 17, 17) solid;
+  margin: 0.5em;
+  padding: 0.5em;
+     
+ }
+
+ p{
+     font-size: 3em;
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(14, 13, 13);
+     font-style: italic;
+    /* background-color: rgba(20, 225, 236, 0.295);*/
+     
+     
+ }
+
+ h2{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    font-style: italic;
+   /* border: double;*/
+    
+ }
+ 
+ 
